@@ -2,7 +2,7 @@ last changes : 16/12/2019 <br>
 Author : Arnaud Montabert<br>
 contact : montabert@geologie.ens.fr<br>
 
-Description of the database : OPUR_SantAgata
+Description of the database : OPUR_SANTAGATA
 --------------------------------------------
 
 The repositery contains the files of the OPUR database that were used to identify and describe the repair units of Sant'Agata del Mugello church (Italy, Tuscany).
