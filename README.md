@@ -13,4 +13,4 @@ The empty database is freely accessible at http://recap.huma-num.fr/webpublic/#r
 Filemaker software is required to read the database (availabe for Windows and Mac).
 
 How to cite this work : 
-MONTABERT A., DESSALES H., ARRIGHETTI A., CLEMENT J., LANCIERI M., LYON-CAEN H., submitted, Tracing the seismic history of Sant'Agata del Mugello (Italy, Tuscany) through a cross-disciplinary approach.
+MONTABERT A., DESSALES H., ARRIGHETTI A., CLEMENT J., LANCIERI M., LYON-CAEN H., Tracing the seismic history of Sant’Agata del Mugello (Italy, Tuscany) through a cross-disciplinary approach, Journal of Archaeological Science: Reports, 33 (2020) 102440, doi, 10.1016/j.jasrep.2020.102440 .
